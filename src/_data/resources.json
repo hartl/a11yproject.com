@@ -777,6 +777,12 @@
 			"url": "https://www.toptal.com/designers/colorfilter/"
 		},
 		{
+			"title": "Color Contrast Checker",
+			"description": "This tool tests color contrast for accessibility based on WCAG guidelines, featuring a preview, ratio scale, and explanations.",
+			"additional": "NETPROFIT",
+			"url": "https://color-contrast-checker.com/"
+		},
+		{
 			"title": "Contrast Ratio",
 			"description": "Easily calculate color contrast ratios. Passing WCAG was never this easy!",
 			"additional": "Lea Verou",
